@@ -1,6 +1,6 @@
 # PyTorch Tutorial for MIL Prerinko 2025
 
-https://github.com/rfukush/prerinkoより作成。
+https://github.com/rfukush/prerinko より作成。
 
 PyTorch、logging、argparseのチュートリアル。
 
